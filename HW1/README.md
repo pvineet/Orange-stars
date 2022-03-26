@@ -14,6 +14,7 @@ I want to keep the first idea super simple and stupid. Drawing inspiration from 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pvineet/Orange-stars/f852535f52e59f6191e94962e0f8c450743ba59f/HW1/BlockDiagram.svg">
 </p>
+
 ## Components
 
 Processor controls mirror roomba
