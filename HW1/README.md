@@ -6,9 +6,9 @@ I want to keep the first idea super simple and stupid. Drawing inspiration from 
   <img src="https://raw.githubusercontent.com/pvineet/Orange-stars/9b0ad5d8d81018b8c1ed6d03a14c3b9ba3859ed0/HW1/MirrorRoomba.svg">
 </p>
 
-## Simple cleaning workflow
+## Basic cleaning workflow
 - Find the limits or edges of the mirror or window.
-- Clean the glass with top down swipes.
+- Clean the glass with top down swipes from left to right.
 
 ## Block Diagram
 <p align="center">
