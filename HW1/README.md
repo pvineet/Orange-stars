@@ -20,6 +20,6 @@ I want to keep the first idea super simple and stupid. Drawing inspiration from 
 - Processor - controls mirror roomba
 - Flash - Code and logging storage
 - Motor - driver controlled via PWM and drives different motors
-- Water - sensor monitors water level
+- Water sensor - monitors water level
 - Soap/water dispenser - dispenses soap to clean
 - Edge sensor - senses the edges of mirror or window.
